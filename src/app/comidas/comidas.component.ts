@@ -9,7 +9,7 @@ export class ComidasComponent implements OnInit {
 
   public titulo: string = "Comidas"
   public idxComidaFav: number = 0;
-  public comidas: string[] = ['Canelones', 'Asado', 'Pollo', 'Estofado', 'Pastel de Papa'];
+  public comidas: string[] = ['Canelones', 'Asado', 'Pollo', 'Milanesa', 'Pastel de Papa'];
 
   constructor() { }
 
